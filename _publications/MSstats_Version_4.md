@@ -1,7 +1,7 @@
 ---
 title: "MSstats Version 4.0: Statistical Analyses of Quantitative Mass Spectrometry-Based Proteomic Experiments with Chromatography-Based Quantification at Scale"
 collection: publications
-permalink: /publication/MSstats_Version_4.0
+permalink: /publication/MSstats_Version_4
 excerpt: 'Here, we introduce MSstats version 4.0 (v4.0), a statistical methodology and core package in the family of R/Bioconductor packages designed for statistical analysis of experiments with chromatography-based quantification.'
 date: 2023-5-5
 venue: 'Journal of Proteome Research'
