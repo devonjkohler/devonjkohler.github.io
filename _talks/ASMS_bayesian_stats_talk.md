@@ -1,5 +1,5 @@
 ---
-title: "Bayesian statistical modeling reveals missing value mechanisms in label-free Mass Spectrometry-based proteomics experiments"
+title: "Bayesian statistical modeling reveals missing value mechanisms in label-free Mass Spectrometry-based proteomics experiments"
 collection: talks
 type: "Talk"
 permalink: /talks/ASMS_bayesian_stats_talk
