@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [Northeastern University's Khoury College of Computer Science](https://www.khoury.northeastern.edu/people/devon-kohler/) in [Olga Vitek's lab](https://olga-vitek-lab.khoury.northeastern.edu/), researching computational methods for mass spectrometry (MS)-based proteomics. Specifically, my research interests are focused on the application of statistical and causal inference techniques. 
+I am a PhD student at [Northeastern University's Khoury College of Computer Science](https://www.khoury.northeastern.edu/people/devon-kohler/) in [Olga Vitek's lab](https://olga-vitek-lab.khoury.northeastern.edu/) researching computational methods for mass spectrometry (MS)-based proteomics. Specifically, my research interests are focused on the application of statistical and causal inference techniques. 
 
 I am a one of the lead developers for the [MSstats](http://www.msstats.org/) family of R packages. I am the creator of a number packages, including  [MSstatsPTM](http://www.bioconductor.org/packages/release/bioc/html/MSstatsPTM.html) and [MSstatsLiP](http://www.bioconductor.org/packages/release/bioc/html/MSstatsLiP.html) packages. Additionally, I have created the R shiny-based GUI [MSstatsShiny](https://github.com/Vitek-Lab/MSstatsShiny/).
 
@@ -22,4 +22,4 @@ I grew up on Nantucket, MA and have lived in Massachusetts for the majority of m
 Contact
 =======
 
-Please get in touch with me at my email address: kohler.d@northeastern.edu
+Please get in touch with me by email at kohler.d@northeastern.edu
