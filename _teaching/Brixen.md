@@ -3,7 +3,7 @@ title: "Design and analysis of quantitative proteomics experiments: statistical 
 collection: teaching
 type: "Short Course"
 permalink: /teaching/Brixen
-venue: "FEBS 2023 on Advance Proteomics"
+venue: "FEBS 2023 European Summer School on Advanced Proteomics"
 date: 2023-08-01
 location: "Brixen, Italy"
 ---
