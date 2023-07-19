@@ -47,12 +47,11 @@ Teaching
 Service and leadership
 ======
 <u>Committees</u>
-Human Glycoproteomics Initiative - 2nd study, 2022 - Present
-https://www.hupo.org/page-1757437
+* Human Glycoproteomics Initiative - 2nd study, 2022 - Present, https://www.hupo.org/page-1757437
 
 <u>Peer Reviewer</u>
-Bioinformatics - 2022
-Molecular & Cellular Proteomics - 2022
+* Bioinformatics - 2022
+* Molecular & Cellular Proteomics - 2022
 
 <u>Student Mentor</u>
 * Mentoring multiple Masters in Computer Science and Data Science students, 2022-present
