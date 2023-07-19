@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, Khoury College of Computer Sciences, 2025 (expected)
+* M.S. in Data Science, , Khoury College of Computer Sciences, 2020
+* B.A. in Economics, Union College, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Genentech, South San Francisco, CA, Summer 2021
+  * Computation Proteomics Intern
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* The TJX Companies, Framingham, MA, Winter 2020
+  * Data Science Graduate Coop
+
+* Cybba Inc, Boston, MA, 2015-2019
+  * Data Analyst/Engineer
 
 Publications
 ======
@@ -56,4 +46,13 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+<u>Committees</u>
+Human Glycoproteomics Initiative - 2nd study, 2022 - Present
+https://www.hupo.org/page-1757437
+
+<u>Peer Reviewer</u>
+Bioinformatics - 2022
+Molecular & Cellular Proteomics - 2022
+
+<u>Student Mentor</u>
+* Mentoring multiple Masters in Computer Science and Data Science students, 2022-present
