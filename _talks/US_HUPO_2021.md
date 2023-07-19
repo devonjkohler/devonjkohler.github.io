@@ -1,7 +1,7 @@
 ---
 title: "MSstatsPTM: an R/Bioconductor software for detecting quantitative changes in post-translational modifications"
 collection: talks
-type: "Talk"
+type: "Poster"
 permalink: /talks/US_HUPO_2021
 venue: "US HUPO 2021"
 date: 2021-03-01

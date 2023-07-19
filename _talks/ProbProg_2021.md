@@ -2,7 +2,7 @@
 title: "Explorations of causal probabilistic programming approaches for
 rule-based models of biological signaling pathways"
 collection: talks
-type: "Talk"
+type: "Poster"
 permalink: /talks/ProbProg_2021
 venue: "Prob Prog 2021"
 date: 2021-10-21

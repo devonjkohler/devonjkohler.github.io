@@ -1,7 +1,7 @@
 ---
 title: "Single-cell mass spectrometry-based proteomics enables causal inference in observational studies"
 collection: talks
-type: "Talk"
+type: "Poster"
 permalink: /talks/USHUPO_causal_inference_poster
 venue: "US HUPO 2023"
 date: 2023-03-01
