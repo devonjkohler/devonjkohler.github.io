@@ -26,6 +26,12 @@ Work experience
 * Cybba Inc, Boston, MA, 2015-2019
   * Data Analyst/Engineer
 
+Technical Knowledge
+======
+* Programming Languages:      Python, R, SQL, Julia, Matlab, Git (Github/Bitbucket), BASH
+* Machine Learning/Statistics: Scikit-learn, Keras, PyTorch, Pyro, XGBoost, lme4
+* Software: 		       Amazon Web Services (AWS), Docker, Posit Cloud, Linux, Mac OS, Windows
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -55,3 +61,8 @@ Service and leadership
 
 <u>Student Mentor</u>
 * Mentoring multiple Masters in Computer Science and Data Science students, 2022-present
+
+Github Repositories
+======
+Personal: https://github.com/devonjkohler/
+Laboratory: https://github.com/Vitek-Lab/
