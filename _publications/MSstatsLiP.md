@@ -1,16 +1,15 @@
 ---
-title: "Proteome-wide structural changes measured with limited proteolysis-mass spectrometry: an advanced protocol for high-throughput applications"
+title: "Recent Developments in MSstats Ecosystem: A collection of statistical methods for general scalable quantitative analysis of proteomic experiments."
 collection: publications
-permalink: /publication/MSstatsLiP
-excerpt: 'We introduce MSstatsLiP, an R package dedicated to the analysis of LiP-MS data for the identification of structurally altered peptides and differentially abundant proteins.'
-date: 2022-12-16
-venue: 'Nature Protocols'
-paperurl: 'https://www.nature.com/articles/s41596-022-00771-x'
-citation: 'Malinovska, L., Cappelletti, V., Kohler, D. et al. Proteome-wide structural changes measured with limited proteolysis-mass spectrometry: an advanced protocol for high-throughput applications. Nat Protoc 18, 659–682 (2023).'
+permalink: /publication/MSstats_developments
+excerpt: 'The MSstats ecosystem is a family of open-source R/Bioconductor packages implementing statistical
+methods for quantitative mass spectrometry-based proteomic experiments. Here we review its recent developments, as well as advances in previously available methods and implementations.'
+date: 2022-09-01
+venue: 'HUPO'
+paperurl: 'https://hupo.org/News/12904194'
+citation: 'Kohler, D., Stankiak, M., & Vitek, O. (2022). Recent Developments in MSstats Ecosystem: A collection of statistical methods for general scalable quantitative analysis of proteomic experiments. HUPO News.'
 ---
 
-[Download paper here](http://devonjkohler.github.io/files/MSstatsLiP.pdf)
+[Download paper here](https://hupo.org/resources/Documents/Elections/MSstats_HUPOST.pdf)
 
-Recommended citation: Malinovska, L., Cappelletti, V., Kohler, D. et al. Proteome-wide structural changes measured with limited proteolysis-mass spectrometry: an advanced protocol for high-throughput applications. Nat Protoc 18, 659–682 (2023).
-
-The code for this publication is available on [Github](https://github.com/Vitek-Lab/MSstatsLiP).
+Recommended citation: Kohler, D., Stankiak, M., & Vitek, O. (2022). Recent Developments in MSstats Ecosystem: A collection of statistical methods for general scalable quantitative analysis of proteomic experiments. HUPO News.

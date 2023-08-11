@@ -1,7 +1,7 @@
 ---
 title: "Quantitative Proteomics: Case Studies"
 collection: teaching
-type: "Short Course"
+type: "Two-day Short Course"
 permalink: /teaching/ASMS_Houston
 venue: "ASMS Two-day Short Courses"
 date: 2023-06-3
