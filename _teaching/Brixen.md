@@ -8,9 +8,9 @@ date: 2023-08-01
 location: "Brixen, Italy"
 ---
 
-This short course included a series of lectures and workshops related to the statistical analysis of mass spectrometry-based proteomics experiments.
-
 [https://advancedproteomics2023.febsevents.org/](https://advancedproteomics2023.febsevents.org/)
+
+This short course included a series of lectures and workshops related to the statistical analysis of mass spectrometry-based proteomics experiments.
 
 Lecture
 ======
