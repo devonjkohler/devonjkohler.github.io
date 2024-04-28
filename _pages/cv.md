@@ -15,6 +15,10 @@ Education
 * M.S. in Data Science, , Khoury College of Computer Sciences, 2020
 * B.A. in Economics, Union College, 2013
 
+Research experience
+======
+* Graduate Researcher, Northeastern University, Boston, MA, 2020-Present
+
 Work experience
 ======
 * Computational Proteomics Intern, Genentech, South San Francisco, CA, Summer 2021
