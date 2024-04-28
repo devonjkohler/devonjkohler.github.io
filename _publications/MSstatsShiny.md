@@ -2,7 +2,7 @@
 title: "MSstatsShiny: A GUI for Versatile, Scalable, and Reproducible Statistical Analyses of Quantitative Proteomic Experiments"
 collection: publications
 permalink: /publication/MSstatsShiny
-excerpt: 'This manuscript proposes a versatile statistical analysis framework that accurately detects relative changes in PTMs.'
+excerpt: 'To make the methods in MSstats accessible to users with limited programming and statistical background, we have created MSstatsShiny, an R-Shiny graphical user interface (GUI) integrated with MSstats, MSstatsTMT, and MSstatsPTM.'
 date: 2023-2-3
 venue: 'Journal of Proteome Research'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.jproteome.2c00603'

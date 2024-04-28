@@ -17,14 +17,11 @@ Education
 
 Work experience
 ======
-* Genentech, South San Francisco, CA, Summer 2021
-  * Computation Proteomics Intern
+* Computational Proteomics Intern, Genentech, South San Francisco, CA, Summer 2021
 
-* The TJX Companies, Framingham, MA, Winter 2020
-  * Data Science Graduate Coop
+* Data Science Graduate Coop, The TJX Companies, Framingham, MA, Winter 2020
 
-* Cybba Inc, Boston, MA, 2015-2019
-  * Data Analyst/Engineer
+* Data Analyst/Engineer, Cybba Inc, Boston, MA, 2015-2019
 
 Technical Knowledge
 ======
