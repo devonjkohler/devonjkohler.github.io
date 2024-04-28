@@ -29,3 +29,16 @@ author_profile: true
 <img src='/images/surfing/big_cr_4.jpg'
      width="800" 
      height="400">
+	 
+<img src='/images/surfing/cr_slide_1.jpg'
+     width="800" 
+     height="400">
+
+<img src='/images/surfing/cr_slide_2.jpg'
+     width="800" 
+     height="400">
+
+<img src='/images/surfing/cr_slide_3.jpg'
+     width="800" 
+     height="400">
+
