@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Below are tools I develop or co-maintain for computational biology, including differential analysis of MS-based proteomics and causal inference of different omnics datasets. All tools are open source and are built using R, Python, or C++. 
+Below are tools I develop or co-maintain for computational biology, including differential analysis of MS-based proteomics and causal inference of different omnics datasets. All tools are open source and are built using R, Python, Julia, or C++. 
 
 ### MSstats
 Statistical analysis framework for quantitative proteomics; normalization, summarization, inference, and visualization.  
@@ -51,5 +51,10 @@ Dedicated proteomics converters for different spectral processing tools.
 **Links:** 
 [GitHub](https://github.com/Vitek-Lab/MSstatsConvert)
 [Bioconductor](https://bioconductor.org/packages/release/bioc/html/MSstatsConvert.html)
+
+### Omega_Implementations
+A variety of biological models implemented in Julia using the probabilistic programming language Omega. 
+**Links:** 
+[GitHub](https://github.com/devonjkohler/Omega_Implementations)
 
 ---
