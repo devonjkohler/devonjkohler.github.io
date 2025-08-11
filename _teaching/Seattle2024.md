@@ -4,7 +4,7 @@ collection: teaching
 type: "Short Course"
 permalink: /teaching/Skyline_2024
 venue: "UW Targeted Mass Spectrometry Course"
-date: 2024-07
+date: 2024-07-01
 location: "Seattle, WA"
 ---
 

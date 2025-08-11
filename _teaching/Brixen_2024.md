@@ -2,7 +2,7 @@
 title: "Design and analysis of quantitative proteomics experiments: statistical methods and case studies with MSstats"
 collection: teaching
 type: "Short Course"
-permalink: /teaching/Brixen
+permalink: /teaching/Brixen_2024
 venue: "FEBS 2024 European Summer School on Advanced Proteomics"
 date: 2024-08-01
 location: "Brixen, Italy"
