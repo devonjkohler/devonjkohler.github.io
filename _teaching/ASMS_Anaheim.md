@@ -2,10 +2,10 @@
 title: "Quantitative Proteomics: Case Studies"
 collection: teaching
 type: "Two-day Short Course"
-permalink: /teaching/ASMS_Houston
-venue: "ASMS 2023"
-date: 2023-06-3
-location: "Houston, TX"
+permalink: /teaching/ASMS_Anaheim
+venue: "ASMS 2024"
+date: 2024-06-03
+location: "Anaheim, CA"
 ---
 
 In Case study 1, we analyzed an SRM proteomics dataset from a case-control study of heart failure using a salt-sensitive rat model, which included biological and technical replicates. Participants explored the importance of study design (in particular of normalization and randomization), the importance of visualizing chromatograms (and signal interferences), and setting up, conducting and interpreting the results of statistical analyses in MSstats.
