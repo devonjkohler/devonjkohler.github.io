@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Khoury College of Computer Sciences, 2025 (expected)
-* M.S. in Data Science, , Khoury College of Computer Sciences, 2020
+* Ph.D in Computer Science, Khoury College of Computer Sciences, 2026 (expected)
+* M.S. in Data Science, Khoury College of Computer Sciences, 2020
 * B.A. in Economics, Union College, 2013
 
 Research experience
@@ -57,11 +57,12 @@ Service and leadership
 * Human Glycoproteomics Initiative - 2nd study, 2022 - Present, https://www.hupo.org/page-1757437
 
 <u>Peer Reviewer</u>
-* Bioinformatics - 2022
-* Molecular & Cellular Proteomics - 2022
+* Bioinformatics - 2022, 2023, 2024, 2025
+* Molecular & Cellular Proteomics - 2022, 2023, 2024, 2025
+* Journal of Proteomics Research - 2023, 2024, 2025
 
 <u>Student Mentor</u>
-* Mentoring multiple Masters in Computer Science and Data Science students, 2022-present
+* Mentoring Masters in Computer Science and Data Science students, 2022-present
 
 Github Repositories
 ======
