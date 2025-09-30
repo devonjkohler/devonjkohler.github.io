@@ -14,6 +14,10 @@ Statistical analysis framework for quantitative proteomics; normalization, summa
 [Bioconductor](https://bioconductor.org/packages/release/bioc/html/MSstats.html)
 [Website](http://www.msstats.org/)
 
+### Causomic
+Python package for casual inference and purturbation estimation of omics research
+**Link:** [GitHub](https://github.com/devonjkohler/Causomic)
+
 ### MSstatsPTM
 Integrated PTM analysis controlling for global protein changes to estimate
 site-level effects and occupancy.  
@@ -27,10 +31,6 @@ conformation- or binding-related changes.
 **Link:**
 [GitHub](https://github.com/Vitek-Lab/MSstatsLiP)
 [Bioconductor](https://bioconductor.org/packages/release/bioc/html/MSstatsLiP.html)
-
-### MScausality
-Python package for casual inference. Designed for MS-based proteomics, but easily extendable to different types of omnics.
-**Link:** [GitHub](https://github.com/devonjkohler/MScausality)
 
 ### MSstatsTMT
 Methods for isobaric labeling (TMT/iTRAQ), including channel normalization and
