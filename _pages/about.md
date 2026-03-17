@@ -1,29 +1,76 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Computational biology researcher developing statistical and causal methods for proteomics and multi-omics data."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hello! I am a PhD candidate at [Northeastern University's Khoury College of Computer Science](https://www.khoury.northeastern.edu/people/devon-kohler/) in [Olga Vitek's lab](https://olga-vitek-lab.khoury.northeastern.edu/), where I develop computational methods for analyzing complex biological data. My primary focus is **mass spectrometry (MS)-based proteomics**, but my work also spans **RNA-seq analysis** and **multi-omics integration** to better understand biological systems.
+I am a PhD candidate in Computer Science at
+[Northeastern University](https://www.khoury.northeastern.edu/)
+advised by
+[Olga Vitek](https://olga-vitek-lab.khoury.northeastern.edu/).
+My research develops **statistical and machine learning methods for
+computational biology**, with a particular focus on
+**mass spectrometry-based proteomics**, **measurement-aware modeling**,
+and **causal inference for biological systems**.
 
-I specialize in applying and extending statistical and computational techniques for quantitative proteomics, and I am one of the lead developers of the [MSstats](http://www.msstats.org/) family of R packages. I have created multiple extensions, including [MSstatsPTM](http://www.bioconductor.org/packages/release/bioc/html/MSstatsPTM.html) and [MSstatsLiP](http://www.bioconductor.org/packages/release/bioc/html/MSstatsLiP.html), as well as the R Shiny-based GUI [MSstatsShiny](https://github.com/Vitek-Lab/MSstatsShiny/) to make these methods more accessible to the community.
+My work centers on building methods that account for the realities of
+biological experiments: complex measurement processes, limited
+replication, missing data, and variable data quality. I develop models
+that explicitly incorporate these features into downstream inference,
+and I translate them into practical open-source software used by both
+academic and pharmaceutical researchers.
 
-Beyond statistical modeling, I work on **causal inference approaches** for predicting the effects of perturbations in biochemical systems, integrating prior biological knowledge with observational data. This research bridges mass spectrometry and transcriptomics, enabling more holistic insights into molecular mechanisms. I have presented this work at **ASMS Asilomar 2023, US HUPO 2023, and HUPO 2024**.
+I am a lead developer and maintainer of the
+[MSstats](https://www.msstats.org/) ecosystem of Bioconductor packages
+for quantitative proteomics, including contributions to tools for
+differential abundance analysis, post-translational modification
+analysis, limited proteolysis experiments, scalable workflows, and
+interactive analysis interfaces. My recent work on **MSstats+**
+introduces quality-aware statistical modeling for large-scale DIA
+proteomics by integrating longitudinal peak quality metrics into
+protein-level inference.
 
-Background
-=============
+More broadly, I am developing **causal modeling frameworks for
+biological systems** that integrate proteomics, transcriptomics, and
+prior biological knowledge to estimate the effects of perturbations.
+This work combines Bayesian modeling, probabilistic programming, and
+structured biological knowledge to support interventional prediction in
+complex molecular systems.
 
-I grew up on Nantucket, Massachusetts, and have spent most of my life in the state. I earned my undergraduate degree in Economics from Union College in Schenectady, NY. After graduation, I began my professional career in the Boston area as a data analyst and engineer at the digital marketing company Cybba Inc., where I built and maintained data pipelines and analytical models.
+My research has been shaped by close collaborations with
+**Genentech, Pfizer, AstraZeneca, and Talus Bio**, and I am especially
+interested in problems at the interface of statistical methodology,
+machine learning, and real experimental workflows in the life sciences.
 
-Driven by my interest in data science and machine learning, I returned to Northeastern University to strengthen my computational and statistical skills. I completed my **Master’s in Data Science** in December 2020 with a 4.0 GPA and officially began my PhD in September 2021.
+# Research interests
 
-Outside of research, I’m passionate about the outdoors, including surfing and snowboarding whenever I can. Check out the photos tab!
+- Statistical methods for quantitative proteomics
+- Measurement quality-aware inference
+- Causal modeling of biological systems
+- Multi-omics integration
+- Open-source scientific software
 
-Contact
-=======
+# Community and teaching
 
-Please get in touch with me by email at kohler.d@northeastern.edu
+I regularly teach short courses and workshops in quantitative
+proteomics, statistical modeling, and computational biology. Across
+international training programs, I have taught more than 20 courses for
+researchers from academia and industry.
+
+# Background
+
+Before beginning my PhD, I worked in industry as a data scientist in
+Boston. I previously earned an M.S. in Data Science from Northeastern
+University and a B.A. in Economics from Union College.
+
+Outside of research, I’m passionate about the outdoors, including surfing 
+and snowboarding whenever I can. Check out the photos tab!
+
+# Contact
+
+Please get in touch at
+[kohler.d@northeastern.edu](mailto:kohler.d@northeastern.edu).
