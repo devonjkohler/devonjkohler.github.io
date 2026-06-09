@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="margin-bottom: 1.5em;">
+  <a href="/files/Devon_Kohler_CV.pdf" 
+     style="display: inline-flex; align-items: center; gap: 0.4em; 
+            background-color: #494e52; color: white; padding: 0.5em 1em; 
+            border-radius: 4px; text-decoration: none; font-weight: bold;">
+    ⬇ Download CV (PDF)
+  </a>
+</div>
+
 Education
 ======
 * Ph.D in Computer Science, Khoury College of Computer Sciences, 2026 (expected)
