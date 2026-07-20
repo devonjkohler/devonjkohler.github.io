@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Computer Science at
-[Northeastern University](https://www.khoury.northeastern.edu/)
-advised by
-[Olga Vitek](https://olga-vitek-lab.khoury.northeastern.edu/).
+I am a post-doctoral researcher working under [Olga Vitek](https://olga-vitek-lab.khoury.northeastern.edu/) in the Computer Science college at
+[Northeastern University](https://www.khoury.northeastern.edu/).
 My research develops **statistical and machine learning methods for
 computational biology**, with a particular focus on
 **mass spectrometry-based proteomics**, **measurement-aware modeling**,
